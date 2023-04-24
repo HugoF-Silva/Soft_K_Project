@@ -1,1 +1,0 @@
-![alt text](https://github.com/HugoF-Silva/Soft_K_Project/blob/main/image.jpg?raw=true)
