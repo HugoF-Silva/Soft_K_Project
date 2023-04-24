@@ -2,7 +2,7 @@
 
 Este repositório serve para nós, SOFT K 4.0, armazenarmos nossas explorações referentes a abordagens que contribuem para a detecção de soft skills.
 
-Inicialmente trabalhamos com o Big Five, e a aplicação do código do teste em Python.
+Inicialmente trabalhamos com o Big Five, e a aplicação do código do teste em Python (utilizando colab -- jupyter).
 
 * Como entender o Big Five e a aplicação do teste (documento explicativo passo a passo com exemplo de resultados):
 https://docs.google.com/document/d/1Pfw4VmT_6jn4JIUK8FtkXASZ9qVvlK01PLArHxBPPCc/edit?usp=sharing
