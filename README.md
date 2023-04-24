@@ -8,7 +8,7 @@ Inicialmente trabalhamos com o Big Five, e a aplicação do código do teste em 
 https://docs.google.com/document/d/1Pfw4VmT_6jn4JIUK8FtkXASZ9qVvlK01PLArHxBPPCc/edit?usp=sharing
 
 * Direcionamento para o Programa K:
-[link]
+https://www.programak.info/
 
 * O arquivo com o código do teste está na pasta:
 [pasta]
