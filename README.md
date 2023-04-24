@@ -11,6 +11,6 @@ Inicialmente trabalhamos com o Big Five, e a aplicação do código do teste em 
 
 
 # Aplique o teste em si mesmo:
-* O arquivo com o código do teste está na pasta: teste_comportamental (leia as instruções)
+* O arquivo com o código do teste está na pasta [teste_comportamental](https://github.com/HugoF-Silva/Soft_K_Project/tree/main/teste_comportamental) (leia as instruções)
 
 
